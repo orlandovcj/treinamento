@@ -10,6 +10,8 @@ A página foi pensada para apresentar, de forma organizada, o nome do estudante,
 
 Além de cumprir os requisitos da atividade, o site foi estruturado para poder ser usado futuramente como base de apresentação profissional, podendo ser expandido com novos projetos e informações adicionais ao longo do tempo.
 
+Você pode acessar a versão mais recente em: https://orlandovcj.github.io/treinamento/
+
 ## 2. Estrutura Geral da Página
 
 O projeto é composto por uma página principal `index.html`, uma folha de estilos externa `styles.css` e um arquivo de script `script.js`, além desta documentação em formato `.txt`.
